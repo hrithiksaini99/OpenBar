@@ -1,0 +1,30 @@
+STAGE: 2026-10-04T14:37:51.057Z probe-visible
+CG-WINDOW [visible]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": -1096, "X": -3840, "Width": 3840, "Height": 30]
+CG-WINDOW [visible]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": 0, "X": 0, "Width": 1512, "Height": 33]
+STAGE: 2026-10-04T14:37:53.160Z ax-unavailable-visible
+STAGE: 2026-10-04T14:37:53.160Z probe-hide-begin
+STAGE: 2026-10-04T14:37:53.175Z probe-hidden
+CG-WINDOW [selective-hidden]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": -1096, "X": -3840, "Width": 3840, "Height": 30]
+CG-WINDOW [selective-hidden]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": 0, "X": 0, "Width": 1512, "Height": 33]
+STAGE: 2026-10-04T14:37:55.187Z ax-unavailable-selective-hidden
+STAGE: 2026-10-04T14:37:55.187Z probe-restore-begin
+STAGE: 2026-10-04T14:37:55.188Z probe-restored
+CG-WINDOW [restored]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": -1096, "X": -3840, "Width": 3840, "Height": 30]
+CG-WINDOW [restored]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": 0, "X": 0, "Width": 1512, "Height": 33]
+STAGE: 2026-10-04T14:37:57.324Z ax-unavailable-restored
+STAGE: 2026-10-04T14:37:57.325Z probe-complete
+STAGE: 2026-10-04T14:37:57.326Z full-allow-begin
+STAGE: 2026-10-04T14:37:57.340Z full-allow-active
+CG-WINDOW [full-allow]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": -1096, "X": -3840, "Width": 3840, "Height": 30]
+CG-WINDOW [full-allow]: Owner: Window Server (PID: 597), Window: Menubar, Layer: 24, Bounds: ["Y": 0, "X": 0, "Width": 1512, "Height": 33]
+STAGE: 2026-10-04T14:37:59.392Z ax-unavailable-full-allow
+STAGE: 2026-10-04T14:37:59.394Z full-allow-restored
+STAGE: 2026-10-04T14:37:59.395Z cycle-tests-begin
+STAGE: 2026-10-04T14:38:00.054Z cycle-tests-complete
+PASS: macOS 27 native API is available
+PASS: selective fixture activation and restoration completed; visual hiding needs a separate oracle
+PASS: 5 real activation/restoration cycles completed
+PASS: 10 cancellation cycles leave no active assertion
+PASS: all other running apps and 256 system identifiers were allowed
+PASS: no permission or saved-rule changes were made
+OpenBar native smoke-check passed

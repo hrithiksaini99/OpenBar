@@ -1,0 +1,5 @@
+PASS: control is on-screen at launch
+PASS: unsupported macOS explains the limitation and does not claim items are hidden
+PASS: 10 rapid click/Show All cycles preserve the shown state
+PASS: no permission flow was entered
+OpenBar native smoke-check passed

@@ -1,0 +1,25 @@
+/Users/hrithik/projects/OpenBar/dist/OpenBarProbe.app: replacing existing signature
+STAGE: 2026-10-04T14:15:54.651Z probe-visible
+STAGE: 2026-10-04T14:15:56.761Z ax-unavailable-visible
+STAGE: 2026-10-04T14:15:56.762Z probe-hide-begin
+STAGE: 2026-10-04T14:15:56.767Z probe-hidden
+STAGE: 2026-10-04T14:15:58.898Z ax-unavailable-selective-hidden
+STAGE: 2026-10-04T14:15:58.899Z probe-restore-begin
+STAGE: 2026-10-04T14:15:58.900Z probe-restored
+STAGE: 2026-10-04T14:16:00.937Z ax-unavailable-restored
+STAGE: 2026-10-04T14:16:00.937Z probe-complete
+STAGE: 2026-10-04T14:16:00.938Z full-allow-begin
+STAGE: 2026-10-04T14:16:00.940Z full-allow-active
+STAGE: 2026-10-04T14:16:03.070Z ax-unavailable-full-allow
+STAGE: 2026-10-04T14:16:03.071Z full-allow-restored
+STAGE: 2026-10-04T14:16:03.071Z cycle-tests-begin
+STAGE: 2026-10-04T14:16:03.626Z cycle-tests-complete
+PASS: macOS 27 native API is available
+PASS: selective fixture activation and restoration completed; visual hiding needs a separate oracle
+PASS: 5 real activation/restoration cycles completed
+PASS: 10 cancellation cycles leave no active assertion
+PASS: all other running apps and 256 system identifiers were allowed
+PASS: no permission or saved-rule changes were made
+OpenBar native smoke-check passed
+FAIL: item counts do not confirm exactly one hidden and restored fixture.
+ORACLE: visible=19, hidden=14, restored=19

@@ -1,0 +1,53 @@
+Timestamp               Ty Process[PID:TID]
+2026-10-04 19:39:18.178 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item B20104F8-B242-4C6B-9617-3F2FBEE7D385, isAllowed: true
+2026-10-04 19:39:18.179 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 2AA37A75-A2E0-405A-91F6-87EB502273FD, isAllowed: true
+2026-10-04 19:39:18.181 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item FEA52874-3C87-4E81-A7D8-48F200D6742B, isAllowed: true
+2026-10-04 19:39:18.287 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("internal.openbar.app")
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.anthropic.claudefordesktop")
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.openai.codex")
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:39:43.921 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.anthropic.claudefordesktop")
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.openai.codex")
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:00.952 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:04.140 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:04.141 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.anthropic.claudefordesktop")
+2026-10-04 19:40:04.141 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:04.141 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.openai.codex")
+2026-10-04 19:40:04.141 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:04.141 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.anthropic.claudefordesktop")
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("com.openai.codex")
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:40:13.236 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:41:44.127 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 1AD13100-7026-4133-9150-BF1737F4F9C1, isAllowed: true
+2026-10-04 19:41:44.129 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 627FC867-551C-4D59-B16D-635CA1322604, isAllowed: true
+2026-10-04 19:41:44.130 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 66AD0D4F-E952-4F67-8314-0985C7B332A5, isAllowed: true
+2026-10-04 19:41:44.233 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("internal.openbar.app")
+2026-10-04 19:42:41.554 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItemApplications] Persisting tracked applications
+2026-10-04 19:42:41.559 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItemApplications] Started to track application .bundle(internal.openbar.probe)
+2026-10-04 19:42:41.559 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 587720CD-DBB6-41B3-8CE7-5A7EA450873C, isAllowed: true
+2026-10-04 19:42:41.572 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:41.797 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item EE34DB3D-A3DB-4D59-AA43-EA500938A77B, isAllowed: true
+2026-10-04 19:42:41.798 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 0368C7A7-3A8D-4EBE-AD75-49C1CE4D159B, isAllowed: true
+2026-10-04 19:42:41.799 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("internal.openbar.app")
+2026-10-04 19:42:41.799 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("internal.openbar.app")
+2026-10-04 19:42:41.800 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] Creating status item 7A88DDB7-B3D6-4671-B3C7-D23CD2EF147C, isAllowed: true
+2026-10-04 19:42:41.800 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: Optional("internal.openbar.app")
+2026-10-04 19:42:44.301 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:44.301 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:44.301 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:44.301 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:44.302 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:48.557 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:48.557 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:48.557 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:48.557 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil
+2026-10-04 19:42:48.557 Df MenuBarAgent[1109:2395] [com.apple.menubar:statusItems] No server elements for status item: nil

@@ -1,0 +1,68 @@
+[0/1] Planning build
+Building for debugging...
+[0/4] Write swift-version--58304C5D6DBC2206.txt
+[2/4] Emitting module OpenBarTests
+[2/4] Write Objects.LinkFileList
+[3/4] Linking OpenBarPackageTests
+Build complete! (0.88s)
+Test Suite 'All tests' started at 2026-10-04 19:42:42.924.
+Test Suite 'OpenBarPackageTests.xctest' started at 2026-10-04 19:42:42.925.
+Test Suite 'MenuBarGeometryTests' started at 2026-10-04 19:42:42.925.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testMissingAndInvalidControlFramesAreUnsafe]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testMissingAndInvalidControlFramesAreUnsafe]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testMissingAXValuesDoNotCrash]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testMissingAXValuesDoNotCrash]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testNegativeAndVerticalDisplayOffsets]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testNegativeAndVerticalDisplayOffsets]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testPermissionErrorsHaveDistinctSettingsDestinations]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testPermissionErrorsHaveDistinctSettingsDestinations]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testSpacerOvershootsSmallAndLargeDisplays]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testSpacerOvershootsSmallAndLargeDisplays]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testTrayBoundariesExcludeAlwaysHiddenAndControl]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testTrayBoundariesExcludeAlwaysHiddenAndControl]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testTrayWrapsWithoutClippingAndKeepsAllTargets]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testTrayWrapsWithoutClippingAndKeepsAllTargets]' passed (0.076 seconds).
+Test Case '-[OpenBarTests.MenuBarGeometryTests testUnsupportedMenuBarArchitectureDoesNotPretendToHide]' started.
+Test Case '-[OpenBarTests.MenuBarGeometryTests testUnsupportedMenuBarArchitectureDoesNotPretendToHide]' passed (0.000 seconds).
+Test Suite 'MenuBarGeometryTests' passed at 2026-10-04 19:42:43.003.
+	 Executed 8 tests, with 0 failures (0 unexpected) in 0.078 (0.078) seconds
+Test Suite 'MenuBarPolicyTests' started at 2026-10-04 19:42:43.003.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testBothHiddenZonesAreOmittedWhilePinnedApplicationRemains]' started.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testBothHiddenZonesAreOmittedWhilePinnedApplicationRemains]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarPolicyTests testNewApplicationsRemainVisible]' started.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testNewApplicationsRemainVisible]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarPolicyTests testOwnApplicationIsAlwaysKeptIncludingMalformedSavedAssignment]' started.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testOwnApplicationIsAlwaysKeptIncludingMalformedSavedAssignment]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarPolicyTests testSystemComponentsCannotBeHiddenBySavedAssignments]' started.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testSystemComponentsCannotBeHiddenBySavedAssignments]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.MenuBarPolicyTests testTemporaryExposureDoesNotExposeOtherHiddenApplications]' started.
+Test Case '-[OpenBarTests.MenuBarPolicyTests testTemporaryExposureDoesNotExposeOtherHiddenApplications]' passed (0.000 seconds).
+Test Suite 'MenuBarPolicyTests' passed at 2026-10-04 19:42:43.003.
+	 Executed 5 tests, with 0 failures (0 unexpected) in 0.001 (0.001) seconds
+Test Suite 'NativeVisibilityServiceTests' started at 2026-10-04 19:42:43.003.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testActivationPreservesOwnIdentityAndEntireSystemAllowList]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testActivationPreservesOwnIdentityAndEntireSystemAllowList]' passed (0.002 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testCleanupExceptionsKeepHandleForRetry]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testCleanupExceptionsKeepHandleForRetry]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testMissingIdentityNeverStartsAnAssertion]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testMissingIdentityNeverStartsAnAssertion]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testShowAllBetweenSuccessCallbackAndTaskResumptionRejectsStaleSuccess]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testShowAllBetweenSuccessCallbackAndTaskResumptionRejectsStaleSuccess]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testShowAllCancelsPendingRequestAndInvalidatesLateSuccess]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testShowAllCancelsPendingRequestAndInvalidatesLateSuccess]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testSupersededActivationCannotOverwriteNewerSuccessfulRequest]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testSupersededActivationCannotOverwriteNewerSuccessfulRequest]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testTaskCancellationRestoresImmediatelyAndRejectsLateCompletion]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testTaskCancellationRestoresImmediatelyAndRejectsLateCompletion]' passed (0.000 seconds).
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testTimeoutRestoresActiveAndPendingRestrictions]' started.
+Test Case '-[OpenBarTests.NativeVisibilityServiceTests testTimeoutRestoresActiveAndPendingRestrictions]' passed (0.034 seconds).
+Test Suite 'NativeVisibilityServiceTests' passed at 2026-10-04 19:42:43.041.
+	 Executed 8 tests, with 0 failures (0 unexpected) in 0.037 (0.038) seconds
+Test Suite 'OpenBarPackageTests.xctest' passed at 2026-10-04 19:42:43.041.
+	 Executed 21 tests, with 0 failures (0 unexpected) in 0.115 (0.117) seconds
+Test Suite 'All tests' passed at 2026-10-04 19:42:43.041.
+	 Executed 21 tests, with 0 failures (0 unexpected) in 0.115 (0.117) seconds
+◇ Test run started.
+↳ Testing Library Version: 1902
+↳ Target Platform: arm64e-apple-macos14.0
+✔ Test run with 0 tests in 0 suites passed after 0.001 seconds.
